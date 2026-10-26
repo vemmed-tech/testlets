@@ -1,4 +1,4 @@
-export const BUBBLE_ENDPOINT = 'https://flashmedradarquestoes.bubbleapps.io/api/1.1/wf/sign_up_testlets';
+export const BUBBLE_ENDPOINT = 'https://flashcard-turbo.bubbleapps.io/api/1.1/wf/sign_up_testlets';
 export const PRODUCT = 'testlets';
 
 export function createBubblePayload(form) {
